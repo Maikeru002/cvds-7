@@ -1,4 +1,4 @@
-package com.miguel.barrera.springbootjpamediumdemo;
+package com.miguel.barrera;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
